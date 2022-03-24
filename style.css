@@ -1,0 +1,17 @@
+:root{
+    --pri: #1a3e78;
+    --sec: #fdd659;
+    --tri: #4d5a34;
+}
+.git-button{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-transform: capitalize;
+   
+}
+#about{
+    background-color: var(--pri);
+  
+}
+.long{
+    font-size: medium;
+}
